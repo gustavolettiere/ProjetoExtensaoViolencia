@@ -26,7 +26,7 @@ import plotly.express as px
 import pandas_profiling
 import chart_studio
 import chart_studio.plotly as pyo
-chart_studio.tools.set_credentials_file(username='gustavolettiere', api_key='pNQdomPwIuzi2r21343X')
+chart_studio.tools.set_credentials_file(username='gustavolettiere', api_key='p1212121112')
 pio.renderers.default = 'colab'
 
 # Carregamento da Base
